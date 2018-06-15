@@ -1,3 +1,5 @@
+#PygLatin to English Converter 
+
 decode = raw_input("Enter the word you want to decode: ")
 
 if len(decode) > 0 and decode.isalpha():
